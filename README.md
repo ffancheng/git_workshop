@@ -1,2 +1,2 @@
 # git_workshop
-An introduction to Git.
+Just getting started!
