@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a Rmarkdown
+=======
+This is a Rmarkdown file
+>>>>>>> 5b6b9d1b89db60fb73adc00506b7948b083dbffc
